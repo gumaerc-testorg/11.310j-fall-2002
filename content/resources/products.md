@@ -1,8 +1,13 @@
 ---
 content_type: resource
 description: Description of an assignment.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/11-310j-media-technology-and-city-design-and-development-fall-2002/c991a0aaf84af27e124a7f92c9331f82_products.pdf
+file: /media/courses/11-310j-media-technology-and-city-design-and-development-fall-2002/c991a0aaf84af27e124a7f92c9331f82_products.pdf
 file_type: application/pdf
+learning_resource_types:
+- Assignments
+ocw_type: OCWFile
+parent_title: Assignments
+parent_type: CourseSection
 resourcetype: Document
 title: Products
 uid: c991a0aa-f84a-f27e-124a-7f92c9331f82

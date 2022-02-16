@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus
 uid: f77c29b9-ca6d-39c8-b625-cdcfc046b604
 ---
@@ -77,7 +79,7 @@ Next Week's Assignment: What do you hope to offer communities as a designer/plan
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="3" >}}
 On Being a Designer/Planner and Working with Communities
 {{< thclose >}}
 
@@ -148,7 +150,7 @@ Due in Class: Working rough cut of your digital story with audio track and image
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="3" >}}
 Camfield Estates: Organizing and Planning a Community
 {{< thclose >}}
 
@@ -177,7 +179,7 @@ Next Week's Assignment: one-page concept paper on the planning story in the larg
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="3" >}}
 Residents and Designers/Planners: Telling the Story of Designing and Planning Camfield Estates
 {{< thclose >}}
 
@@ -386,7 +388,7 @@ Next Week's Assignment: Full working version of individual story
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="3" >}}
 On Being a Designer/Planner and Working with Communities
 {{< thclose >}}
 
@@ -433,7 +435,7 @@ Final journal reflecting on the semester
 {{< trclose >}}
 {{< theadopen >}}
 {{< tropen >}}
-{{< thopen >}}
+{{< thopen colspan="3" >}}
 Epilogue
 {{< thclose >}}
 
