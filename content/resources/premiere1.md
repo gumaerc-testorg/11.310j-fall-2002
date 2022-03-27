@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tutorials
 parent_type: CourseSection
+parent_uid: 1e679264-92fc-f24d-c9f7-e4345c6f2131
 resourcetype: Document
 title: 'Bringing Your Files into Premiere and Creating a Basic Edit '
 uid: faa4c0f3-1363-2bbc-bbf0-6c6699618c40

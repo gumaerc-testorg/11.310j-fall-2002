@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tutorials
 parent_type: CourseSection
+parent_uid: 1e679264-92fc-f24d-c9f7-e4345c6f2131
 resourcetype: Document
 title: Transitions, Zooms and Pans, Text, Music
 uid: dfb2cf86-65b8-ead8-093a-8bb5d5e16ccb

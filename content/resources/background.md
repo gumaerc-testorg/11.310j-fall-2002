@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 5412ed54-319e-6f40-0f40-a32a5189f9b4
 resourcetype: Document
 title: Background
 uid: 8ffda285-072b-d387-169f-1f8f691dbab1

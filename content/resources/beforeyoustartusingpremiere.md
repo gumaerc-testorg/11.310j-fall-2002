@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tutorials
 parent_type: CourseSection
+parent_uid: 1e679264-92fc-f24d-c9f7-e4345c6f2131
 resourcetype: Document
 title: Before you start using Premiere
 uid: 2f6740bf-eadb-19cb-e8e5-5bb9bb9cb041

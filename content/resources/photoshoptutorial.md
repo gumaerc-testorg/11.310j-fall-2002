@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Tutorials
 parent_type: CourseSection
+parent_uid: 1e679264-92fc-f24d-c9f7-e4345c6f2131
 resourcetype: Document
 title: A brief intro to Photoshop
 uid: cca9026d-c6d6-3b0a-b767-7de08f059b2f
