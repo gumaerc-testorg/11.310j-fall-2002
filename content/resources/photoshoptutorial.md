@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Tutorial on using Adobe Photoshop.
-file: /media/courses/11-310j-media-technology-and-city-design-and-development-fall-2002/cca9026dc6d63b0ab7677de08f059b2f_photoshoptutorial.pdf
+file: /courses/11-310j-media-technology-and-city-design-and-development-fall-2002/cca9026dc6d63b0ab7677de08f059b2f_photoshoptutorial.pdf
 file_type: application/pdf
 learning_resource_types:
 - Tutorials
@@ -13,3 +13,5 @@ resourcetype: Document
 title: A brief intro to Photoshop
 uid: cca9026d-c6d6-3b0a-b767-7de08f059b2f
 ---
+Tutorial on using Adobe Photoshop.
+
