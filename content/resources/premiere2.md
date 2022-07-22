@@ -5,6 +5,7 @@ file: /courses/11-310j-media-technology-and-city-design-and-development-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Tutorials
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tutorials
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Transitions, Zooms and Pans, Text, Music
 uid: dfb2cf86-65b8-ead8-093a-8bb5d5e16ccb
 ---
 Tutorial on using Adobe Premiere.
-

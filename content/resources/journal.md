@@ -5,6 +5,7 @@ file: /courses/11-310j-media-technology-and-city-design-and-development-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Journal
 uid: 0f30c065-1706-8fbe-992d-8613025cb15d
 ---
 Description of a journal assignment.
-

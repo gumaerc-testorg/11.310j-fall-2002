@@ -5,6 +5,7 @@ file: /courses/11-310j-media-technology-and-city-design-and-development-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Background
 uid: 8ffda285-072b-d387-169f-1f8f691dbab1
 ---
 Background information on Camfield Estates, provided for a project.
-

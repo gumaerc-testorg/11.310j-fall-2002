@@ -5,6 +5,7 @@ file: /courses/11-310j-media-technology-and-city-design-and-development-fall-200
 file_type: application/pdf
 learning_resource_types:
 - Tutorials
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Tutorials
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: A brief intro to Photoshop
 uid: cca9026d-c6d6-3b0a-b767-7de08f059b2f
 ---
 Tutorial on using Adobe Photoshop.
-
