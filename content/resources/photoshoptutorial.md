@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Tutorial on using Adobe Photoshop.
-file: /ol-ocw-studio-app/courses/11-310j-media-technology-and-city-design-and-development-fall-2002/cca9026dc6d63b0ab7677de08f059b2f_photoshoptutorial.pdf
+file: /courses/11-310j-media-technology-and-city-design-and-development-fall-2002/cca9026dc6d63b0ab7677de08f059b2f_photoshoptutorial.pdf
 file_size: 609103
 file_type: application/pdf
 learning_resource_types:
