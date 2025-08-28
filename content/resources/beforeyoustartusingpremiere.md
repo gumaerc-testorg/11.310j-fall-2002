@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: Tutorial on using Adobe Premiere.
-file: /courses/11-310j-media-technology-and-city-design-and-development-fall-2002/2f6740bfeadb19cbe8e55bb9bb9cb041_beforeyoustartusingpremiere.pdf
+file: /ol-ocw-studio-app/courses/11-310j-media-technology-and-city-design-and-development-fall-2002/2f6740bfeadb19cbe8e55bb9bb9cb041_beforeyoustartusingpremiere.pdf
 file_size: 124704
 file_type: application/pdf
 learning_resource_types:
