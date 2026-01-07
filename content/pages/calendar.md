@@ -31,7 +31,7 @@ Due
 Stories and their Significance for Communities, Designers, and Planners
 {{< tdclose >}}
 {{< tdopen >}}
-Reading: {{% resource_link "10920f23-b432-4a6d-8f5d-ddf759a7e186" "_Digital Storytelling Cookbook_" %}}; review entire text; at the minimum, read pp. 1-24.
+Reading: [_Digital Storytelling Cookbook_](http://www.storycenter.org/); review entire text; at the minimum, read pp. 1-24.
 {{< tdclose >}}
 
 {{< trclose >}}
